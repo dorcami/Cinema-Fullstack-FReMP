@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "_id": "6339e4b1737b10cb7777249f",
+            "Permissions": [
+                "view subscriptions",
+                "create subscriptions",
+                "delete subscriptions",
+                "update subscriptions",
+                "view movies",
+                "create movies",
+                "delete movies",
+                "update movies"
+            ]
+        },
+        {
+            "_id": "6339ef61737b10cb777724a0",
+            "Permissions": [
+                "view movies",
+                "create movies",
+                "delete movies"
+            ]
+        }
+    ]
+}
